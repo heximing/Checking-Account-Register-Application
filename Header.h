@@ -124,7 +124,7 @@ public:
 				return;
 			}
 			else if (toupper(temp) == 'Y')
-				CheckingInfo::CheckingInfo();
+				CheckingInfo();
 			else
 			{
 				cout << "Something weird happened. Please check the code!!" << endl;
